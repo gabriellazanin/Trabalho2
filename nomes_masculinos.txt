@@ -747,7 +747,6 @@ Fenil
 Ferdan
 Fernando
 Fernão
-NOME
 Figo
 Fílio
 Filip
@@ -794,7 +793,6 @@ Gaell
 Gaio
 Galileu
 Galo
-NOME
 Gamaliel
 Gando
 Gareth
@@ -841,7 +839,6 @@ Gilchrist
 Gilmarc
 Gilson
 Gino
-NOME
 Giorgi
 Giovani
 Giovanni
@@ -982,7 +979,7 @@ Herickson
 Héritier
 Herlander
 Herman
-NOME
+
 Hermano
 Hermenegildo
 Hermès
@@ -1734,7 +1731,6 @@ Luis
 Luís
 Luisandro
 Luiz
-NOME
 Luizandro
 Luizinho
 Luka
@@ -2439,7 +2435,6 @@ Rikesh
 Riley
 Ringo
 Rio
-NOME
 Rion
 Riquelme
 Riquelmo
