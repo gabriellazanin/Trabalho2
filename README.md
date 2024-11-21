@@ -44,7 +44,7 @@ O programa apresenta um menu principal e alguns submenus.
 1. **`App`**: 
    - A classe principal do programa, onde contém o menu principal e a lógica de interação com o usuário.
    Estrutura e principais métodos:
-* main:
+* `main`:
   - Executa o programa principal
   - Solicita o nome do arquivo para carregar a lista de pessoas
   - Inicializa as listas de pessoas como `listaOriginal`, `listaFeminino` e `listaMasculino`.
